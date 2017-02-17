@@ -1,0 +1,45 @@
+body {
+	width:800px ;
+	margin-left: auto ;
+	margin-right: auto ;
+	background-color: #061539 ;
+	padding: 20px;
+}
+
+a:link{
+	color: white ;
+	text-decoration: none ;
+}
+
+a:visited{
+	color:blue ;
+}
+
+a:active{
+	color:red ;
+}
+
+p{
+	color:white ;
+}
+
+h1{
+	color: #2E4172 ;
+}
+
+.mainContent {
+	background-color: #7887AB ;
+	padding:10px ;
+	height: auto ;
+	overflow: hidden ;
+}
+
+.mainContent1 {
+	background-image: url("./Kasim.jpg") ;
+}
+
+
+.myPic {
+	float: right ;
+	background-color: inherit;
+}
